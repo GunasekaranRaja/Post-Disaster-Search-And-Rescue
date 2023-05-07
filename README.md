@@ -1,1 +1,1 @@
-UAV-based GAN-aided Post Disaster 3D-Scene Reconstruction for Efficient Survivor Detection
+UAV-based Post Disaster Survivor Detection Mechanism using a GAN-aided Ensemble Network
