@@ -1,1 +1,1 @@
-UAV-based Post Disaster Survivor Detection Mechanism using a GAN-aided Ensemble Network
+UGEN: UAV-based GAN-aided Ensemble Network for Efficient Post Disaster Survivor Detection
